@@ -33,6 +33,20 @@ This is a list of my most recent activity on GitHub.
 Last Updated: Saturday, December 24th, 2022, 5:34:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
+---
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/globalkitteh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/global-petersen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](globalkitteh.net)  
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=globalkitteh)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=globalkitteh)  
+
+---
+
 ![Visitor Count](https://profile-counter.glitch.me/globalkitteh/count.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=globalkitteh.globalkitteh&left_color=green&right_color=red)
 
