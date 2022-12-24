@@ -17,6 +17,13 @@ I'm working on containerization with Docker, and moving the Pi to be a more mobi
 
 Currently running a ZeroTier bridge, PiHole ad blocking, CasaOS management dashboard, a VLC camera feed (WIP), a CyberChef instance, and on occasion a Beta 1.2_02 Minecraft server.
 
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **globalkitteh/globalkitteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
