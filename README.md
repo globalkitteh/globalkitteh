@@ -33,6 +33,9 @@ This is a list of my most recent activity on GitHub.
 Last Updated: Saturday, December 24th, 2022, 5:19:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
+![Visitor Count](https://profile-counter.glitch.me/globalkitteh/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=globalkitteh.globalkitteh&left_color=green&right_color=red)
+
 <!--
 **globalkitteh/globalkitteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
