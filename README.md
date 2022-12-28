@@ -3,6 +3,10 @@
 - 🔭 I’m currently working on ...
   - Becoming more active in software development
   - Completing the Advent of Cyber event on TryHackMe
+    - Learning how to protect against SQLi using Prepared Statements
+    - Use of Hydra to bruteforce VNC login
+    - Pivoting using Docker containers
+    - Creating reverse shells embedded in files
   - Giving blogging a go
   - Expanding my homelab
 
@@ -12,6 +16,7 @@ Currently it is comprised of:
 - Raspberry Pi 2B+
 - Acer Aspire laptop
 - Lenovo SFF
+- Basic Switch and router, nothing shiny or new
 
 I'm working on containerization with Docker, and moving the Pi to be a more mobile system for hardware projects rather than sysadmin things.
 
