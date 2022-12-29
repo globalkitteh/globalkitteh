@@ -20,7 +20,7 @@ Currently it is comprised of:
 
 I'm working on containerization with Docker, and moving the Pi to be a more mobile system for hardware projects rather than sysadmin things.
 
-Currently running a ZeroTier bridge, PiHole ad blocking, CasaOS management dashboard, a VLC camera feed (WIP), a CyberChef instance, and on occasion a Beta 1.2_02 Minecraft server.
+Currently running a ZeroTier bridge, PiHole ad blocking, CasaOS management dashboard, a VLC camera feed (WIP), a CyberChef instance, a Tandoor recipe database, a Proxmox hypervisor with a VM or two, and on occasion a Beta 1.2_02 Minecraft server.
 
 ## Recent Activity
 
