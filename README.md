@@ -2,11 +2,10 @@
 
 - 🔭 I’m currently working on ...
   - Becoming more active in software development
-  - Completing the Advent of Cyber event on TryHackMe
-    - Learning how to protect against SQLi using Prepared Statements
-    - Use of Hydra to bruteforce VNC login
-    - Pivoting using Docker containers
-    - Creating reverse shells embedded in files
+    - Getting involved with Purdue Hackers
+    - Making quick and cool projects
+  - Building out my personal website
+    - Thinking about adding React, making a better navbar
   - Giving blogging a go
   - Expanding my homelab
 
