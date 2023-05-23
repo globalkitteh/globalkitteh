@@ -27,12 +27,10 @@ This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [globalkitteh/metasploit-framework](https://github.com/globalkitteh/metasploit-framework) from [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
-2. ⬆️ Pushed 1 commit(s) to [globalkitteh/globalkitteh.github.io](https://github.com/globalkitteh/globalkitteh.github.io)
-3. 📔 Created new repository [globalkitteh/globalkitteh.github.io](https://github.com/globalkitteh/globalkitteh.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 23rd, 2023, 1:06:25 AM
+Last Updated: Tuesday, May 23rd, 2023, 2:31:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
