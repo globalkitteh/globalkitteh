@@ -26,10 +26,11 @@ Currently running a ZeroTier bridge, PiHole ad blocking, CasaOS management dashb
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
+1. 🤝 Became collaborator on [darksbain6749/DnsServer](https://github.com/darksbain6749/DnsServer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 31st, 2025, 11:19:20 PM
+Last Updated: Friday, August 1st, 2025, 1:56:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
