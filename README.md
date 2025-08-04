@@ -26,12 +26,15 @@ Currently running a ZeroTier bridge, PiHole ad blocking, CasaOS management dashb
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [globalkitteh/dusktail-game](https://github.com/globalkitteh/dusktail-game)
-2. 🤝 Became collaborator on [darksbain6749/DnsServer](https://github.com/darksbain6749/DnsServer)
+1. ❗️ Opened issue [#2](https://github.com/globalkitteh/dusktail-game/issues/2) in [globalkitteh/dusktail-game](https://github.com/globalkitteh/dusktail-game)
+2. ❗️ Opened issue [#1](https://github.com/globalkitteh/dusktail-game/issues/1) in [globalkitteh/dusktail-game](https://github.com/globalkitteh/dusktail-game)
+3. ⬆️ Pushed 1 commit(s) to [globalkitteh/dusktail-game](https://github.com/globalkitteh/dusktail-game)
+4. ⬆️ Pushed 1 commit(s) to [globalkitteh/dusktail-game](https://github.com/globalkitteh/dusktail-game)
+5. 📔 Created new repository [globalkitteh/dusktail-game](https://github.com/globalkitteh/dusktail-game)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 3rd, 2025, 11:19:15 PM
+Last Updated: Monday, August 4th, 2025, 1:53:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
