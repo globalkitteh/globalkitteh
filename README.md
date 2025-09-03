@@ -29,12 +29,10 @@ This is a list of my most recent activity on GitHub.
 1. ⬆️ Pushed 2 commit(s) to [globalkitteh/projectcarpanet](https://github.com/globalkitteh/projectcarpanet)
 2. ⬆️ Pushed 1 commit(s) to [globalkitteh/projectcarpanet](https://github.com/globalkitteh/projectcarpanet)
 3. ⬆️ Pushed 1 commit(s) to [globalkitteh/projectcarpanet](https://github.com/globalkitteh/projectcarpanet)
-4. ⬆️ Pushed 1 commit(s) to [globalkitteh/dusktail-game](https://github.com/globalkitteh/dusktail-game)
-5. ❗️ Opened issue [#2](https://github.com/globalkitteh/dusktail-game/issues/2) in [globalkitteh/dusktail-game](https://github.com/globalkitteh/dusktail-game)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 3rd, 2025, 3:25:53 AM
+Last Updated: Wednesday, September 3rd, 2025, 4:21:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
