@@ -26,12 +26,13 @@ Currently running a ZeroTier bridge, PiHole ad blocking, CasaOS management dashb
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qhazeeem/ubuntu-lvm-disk-extension](https://github.com/qhazeeem/ubuntu-lvm-disk-extension)
-2. ⬆️ Pushed undefined commit(s) to [globalkitteh/projectcarpanet](https://github.com/globalkitteh/projectcarpanet)
+1. ⭐ Starred [tenox7/wrp](https://github.com/tenox7/wrp)
+2. ⭐ Starred [qhazeeem/ubuntu-lvm-disk-extension](https://github.com/qhazeeem/ubuntu-lvm-disk-extension)
+3. ⬆️ Pushed undefined commit(s) to [globalkitteh/projectcarpanet](https://github.com/globalkitteh/projectcarpanet)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 25th, 2026, 10:19:26 PM
+Last Updated: Sunday, January 25th, 2026, 11:19:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
